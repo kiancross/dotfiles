@@ -94,6 +94,7 @@ set scrolloff=8
 set wildmode=longest,list
 set fileformats=unix,dos
 set clipboard^=unnamed,unnamedplus
+set mouse=
 set colorcolumn=80
 
 " Persistent undo
