@@ -96,6 +96,7 @@ set fileformats=unix,dos
 set clipboard^=unnamed,unnamedplus
 set mouse=
 set colorcolumn=80
+set statusline=%f%m%=%l:%c\ %p%%
 
 " Persistent undo
 set undofile
