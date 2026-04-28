@@ -1,0 +1,12 @@
+[user]
+  name = Kian Cross
+	email = kian@kiancross.co.uk
+
+[push]
+  autoSetupRemote = true
+
+[core]
+  editor = vim
+
+[init]
+  defaultBranch = master
