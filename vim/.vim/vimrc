@@ -17,6 +17,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'raimondi/delimitmate'
 Plug 'yuezk/vim-js'
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
