@@ -1,2 +1,3 @@
+cask "karabiner-elements"
 cask "mac-mouse-fix"
 cask "maccy"
