@@ -10,3 +10,9 @@
 
 [init]
   defaultBranch = master
+[pager]
+	show = delta
+	diff = delta
+	log = delta
+[interactive]
+	diffFilter = delta --color-only
