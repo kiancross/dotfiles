@@ -1,6 +1,6 @@
 [user]
   name = Kian Cross
-	email = kian@kiancross.co.uk
+  useConfigOnly = true
 
 [push]
   autoSetupRemote = true
@@ -16,3 +16,6 @@
 	log = delta
 [interactive]
 	diffFilter = delta --color-only
+
+[include]
+  path = ~/.gitconfig.local
